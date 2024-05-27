@@ -1,6 +1,6 @@
 
 
-### 👋 Sobre Mí  
+## 👋 Sobre Mí  
 👨‍💻 Data Scientist con experiencia en Python, tengo experiencia práctica en proyectos utilizando Python, SQL, Google Cloud Platform, entre otras tecnologias del sector, realizando tareas de ETL, análisis de datos e ingeniería de datos.
 
 También poseo conocimientos en Machine Learning e interes por aprender mucho más busco mejorar como profesional y aportar valor a los equipos en los que trabajo. 🚀  
