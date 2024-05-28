@@ -1,35 +1,41 @@
 # ¡Hola! 👋
 
 Soy Daniel Hernández, un apasionado Data Scientist 👨‍💻 con experiencia en Python y en el mundo del análisis de datos. Me especializo en proyectos de Machine Learning, ETL, análisis de datos e ingeniería de datos, con habilidades prácticas en diversas tecnologías del sector. Me encanta aprender y mejorar continuamente mis habilidades para aportar valor a los equipos en los que trabajo. 🚀
-
 ---
-
 ## Habilidades Técnicas 🛠️
-
 Aquí tienes algunas de las tecnologías con las que trabajo:
-
-<div align="center">  
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-  <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" height="50" /></a>  
-  <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="NumPy" height="50" /></a>  
-  <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" height="50" /></a>  
-  <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://www.streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" height="50" /></a>  
-  <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://th.bing.com/th/id/OIP.ha_YHTJHCTZGAN4wooFg9wHaDI?w=340&h=148&c=7&r=0&o=5&pid=1.7" alt="Apache Airflow" height="50" /></a>  
-  <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" height="50" /></a>  
-  <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50" /></a>  
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastAPI" height="50" /></a>  
-</div>  
-
+- 💻 &nbsp;
+   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+  
+- 📚 &nbsp;
+   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+   ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+   ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
+   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+   ![Transmitido](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+- 🛢 &nbsp;
+   ![SQLServer](https://img.shields.io/badge/-SQL_Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
+   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+   ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery)
+- 🔧 &nbsp;
+   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+- 📊 &nbsp;
+   ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+- ⚙️ &nbsp;
+   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+   ![GoogleColab](https://img.shields.io/badge/-Google_Colab-333333?style=flat&logo=googlecolab&logoColor=F9AB00)
+   ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- ☁️ &nbsp;
+   ![Renderizar](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
+   ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
 ---
-
 ## Contacto ✉️
 
-¡No dudes en ponerte en contacto conmigo! Puedes encontrarme en las siguientes plataformas:
+Estoy entusiasmado por seguir aprendiendo y aplicar mis habilidades en nuevos desafíos. ¡No dudes en ponerte en contacto conmigo para colaborar o simplemente para conversar sobre ciencia de datos y tecnología!
 
 <div align="center">
   <a href="https://linkedin.com/in/daniel-hernández-84991429a" target="_blank">
