@@ -17,7 +17,6 @@ Aquí tienes algunas de las tecnologías con las que trabajo:
    ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
    ![Transmitido](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
 - 🛢 &nbsp;
-   ![SQLServer](https://img.shields.io/badge/-SQL_Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
    ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery)
 - 🔧 &nbsp;
