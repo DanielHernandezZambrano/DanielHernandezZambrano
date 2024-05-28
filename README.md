@@ -31,8 +31,7 @@ Tambi√©n poseo conocimientos en Machine Learning e interes por aprender mucho m√
 
 </td></tr></table>  
 
-<br/>  
-
+<br/>    
 
 ## Contacto:
 
@@ -44,5 +43,9 @@ Tambi√©n poseo conocimientos en Machine Learning e interes por aprender mucho m√
   </a>
   <a href="https://github.com/DanielHernandezZambrano" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>  
-</div>  
+  </a>
+  <a href="mailto:xdanielyalejandro@hotmail.com" target="_blank">
+    <img src=https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white alt=email style="margin-bottom: 5px;" />
+  </a>
+</div>
+
